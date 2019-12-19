@@ -1,0 +1,64 @@
+{
+    "name": "OrgSync",
+    "description": "OrgSync is a Campus Engagement Network that connects your students to organizations, programs, and departments on campus in a private online community.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1669-orgsync.jpg",
+    "tags": [
+        "have api",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/orgsync\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OrgSync",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1669-orgsync.jpg",
+            "humanURL": "https:\/\/api.orgsync.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/orgsync-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.orgsync.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/OrgsyncBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/orgsync"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/orgsync"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/orgsync"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.orgsync.com\/what_is_orgsync\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/OrgSync"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/api.orgsync.com\/api\/"
+        }
+    ]
+}
